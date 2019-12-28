@@ -1,2 +1,2 @@
 # MEMSmicrophone
-simulation code of MEMSmicrophone
+a simulation code of MEMSmicrophone
